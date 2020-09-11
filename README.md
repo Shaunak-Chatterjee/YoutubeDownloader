@@ -1,6 +1,6 @@
 # YoutubeDownloader
 
-A light-weight video downloader serving the people struggling with internet connectivity issues. This tiny software will help you to download the best possible quality video at lowest possible size. The most attractive part the video size is usually <20Mb and at decent resolution of 360p. Hopefully, this tiny software will help the community to resolve the barriers of low bandwidth and connect with the digital world in a faster way.
+A light-weight video downloader serving the people struggling with internet connectivity issues. This tiny software will help you to download the best possible quality video at lowest possible size.The most attractive thing is the video size is usually <20Mb and at decent resolution of 360p. Hopefully, this tiny software will help the community to resolve the barriers of low bandwidth and connect with the digital world in a faster way.
 
 The software lets you download either 
 a) Video
