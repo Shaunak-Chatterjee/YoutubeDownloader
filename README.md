@@ -9,14 +9,14 @@ b) Audio
 Steps
 ____________________________________________________________
 
-1. Run youtubeDownloader
+1. Run youtubeDownloader.exe
 2. Enter the link
 3. Find the downloaded file in \dist folder
 
 ## CominG SooN!
 > For future considerations I am working how to download high quality videos (1080p) at a possible low size <200mb.
 
-MIT License
+### MIT License
 
 Copyright (c) 2020 Shaunak Chattopadhyay
 
