@@ -6,12 +6,21 @@ The software lets you download either
 a) Video
 b) Audio
 
-Steps
+### Steps
 ____________________________________________________________
 
 1. Run youtubeDownloader.exe
 2. Enter the link
 3. Find the downloaded file in \dist folder
+
+## Sample RUN
+
+Enter the link of video: https://www.youtube.com/watch?v=WTJSt4wP2ME
+K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)
+Press 1. to download MP4
+Press 2. to download MP3
+Enter>1
+Task Completed
 
 ## CominG SooN!
 > For future considerations I am working how to download high quality videos (1080p) at a possible low size <200mb.
