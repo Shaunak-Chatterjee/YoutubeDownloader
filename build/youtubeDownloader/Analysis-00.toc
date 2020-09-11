@@ -1,0 +1,897 @@
+(['C:\\Users\\Shaunak Rivu\\Desktop\\youtubeDownloader.py'],
+ ['C:\\Users\\Shaunak Rivu\\Desktop', 'C:\\Users\\Shaunak Rivu\\Desktop'],
+ ['codecs'],
+ ['c:\\users\\shaunak '
+  'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'c:\\users\\shaunak '
+  'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'c:\\users\\shaunak '
+  'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'c:\\users\\shaunak '
+  'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'c:\\users\\shaunak '
+  'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ [],
+ [],
+ False,
+ False,
+ '3.6.8 (tags/v3.6.8:3c6b436a57, Dec 24 2018, 00:16:47) [MSC v.1916 64 bit '
+ '(AMD64)]',
+ [('youtubeDownloader',
+   'C:\\Users\\Shaunak Rivu\\Desktop\\youtubeDownloader.py',
+   'PYSOURCE')],
+ [('os',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\selectors.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\signal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\argparse.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\struct.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\copy.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\stat.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\token.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\getopt.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\quopri.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\bz2.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\_compression.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\socket.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\gzip.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\lzma.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\netrc.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\ssl.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\random.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\tty.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\shlex.py',
+   'PYMODULE'),
+  ('readline',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\readline.py',
+   'PYMODULE'),
+  ('pyreadline.console',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\console\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.console.console',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\console\\console.py',
+   'PYMODULE'),
+  ('pyreadline.console.event',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\console\\event.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('pyreadline.console.ansi',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\console\\ansi.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\keysyms\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.keysyms',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\keysyms\\keysyms.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.common',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\keysyms\\common.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.ironpython_keysyms',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\keysyms\\ironpython_keysyms.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.winconstants',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\keysyms\\winconstants.py',
+   'PYMODULE'),
+  ('pyreadline.logger',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\logger.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('smtplib',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\hmac.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\queue.py',
+   'PYMODULE'),
+  ('pyreadline.unicode_helper',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\unicode_helper.py',
+   'PYMODULE'),
+  ('pyreadline.py3k_compat',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\py3k_compat.py',
+   'PYMODULE'),
+  ('pyreadline.console.ironpython_console',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\console\\ironpython_console.py',
+   'PYMODULE'),
+  ('pyreadline',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.release',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\release.py',
+   'PYMODULE'),
+  ('pyreadline.modes',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\modes\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.modes.vi',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\modes\\vi.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor.history',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\lineeditor\\history.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor.lineobj',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\lineeditor\\lineobj.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor.wordmatcher',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\lineeditor\\wordmatcher.py',
+   'PYMODULE'),
+  ('pyreadline.modes.notemacs',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\modes\\notemacs.py',
+   'PYMODULE'),
+  ('pyreadline.modes.emacs',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\modes\\emacs.py',
+   'PYMODULE'),
+  ('pyreadline.modes.basemode',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\modes\\basemode.py',
+   'PYMODULE'),
+  ('pyreadline.error',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\error.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\lineeditor\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard.win32_clipboard',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\clipboard\\win32_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard.no_clipboard',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\clipboard\\no_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard.ironpython_clipboard',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\clipboard\\ironpython_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline.rlmain',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyreadline\\rlmain.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('pytube',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\__init__.py',
+   'PYMODULE'),
+  ('pytube.contrib.playlist',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\contrib\\playlist.py',
+   'PYMODULE'),
+  ('pytube.contrib',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('pytube.helpers',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\helpers.py',
+   'PYMODULE'),
+  ('pytube.exceptions',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\exceptions.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\typing.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('pytube.__main__',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\__main__.py',
+   'PYMODULE'),
+  ('pytube.monostate',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\monostate.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('pytube.query',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\query.py',
+   'PYMODULE'),
+  ('pytube.captions',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\captions.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('pytube.streams',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\streams.py',
+   'PYMODULE'),
+  ('pytube.itags',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\itags.py',
+   'PYMODULE'),
+  ('pytube.request',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\request.py',
+   'PYMODULE'),
+  ('pytube.extract',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\extract.py',
+   'PYMODULE'),
+  ('pytube.cipher',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\cipher.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('pytube.version',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pytube\\version.py',
+   'PYMODULE')],
+ [('VCRUNTIME140.dll',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python36.dll',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\python36.dll',
+   'BINARY'),
+  ('select',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_elementtree',
+   'c:\\users\\shaunak '
+   'rivu\\appdata\\local\\programs\\python\\python36\\DLLs\\_elementtree.pyd',
+   'EXTENSION')],
+ [],
+ [],
+ [('base_library.zip',
+   'C:\\Users\\Shaunak '
+   'Rivu\\Desktop\\build\\youtubeDownloader\\base_library.zip',
+   'DATA')],
+ [])
